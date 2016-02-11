@@ -1,5 +1,4 @@
-<!---  This document requires the subscript extension for markdown  -->
-<!--- The following document is a work-in-progress incomplete proof -->
+<!-- The following document is a work-in-progress incomplete proof -->
 
 # Theorem -
 (A+B)! is always greater than (A!+B!) 
