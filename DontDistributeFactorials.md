@@ -2,9 +2,9 @@
 <!--- The following document is a work-in-progress incomplete proof -->
 
 # Theorem -
-(A+B)! never equals (A!+B!) when A and B
-are inequal, natural numbers, and above
-or equal to one.
+(A+B)! is always greater than (A!+B!) 
+when A and B are inequal, natural numbers, 
+and above or equal to one.
 
 # Proof -
 As our A or B approach infinity, (A+B)! - (A!+B!)
