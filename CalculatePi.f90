@@ -1,6 +1,6 @@
 program calculatePi
     
-    ! This is an implementation fo the Leibniz Formula for Pi
+    ! This is an implementation of the Leibniz Formula for Pi
     
     integer   :: counter = 0
     real (16) :: pi = 0.0
