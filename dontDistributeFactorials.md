@@ -5,7 +5,6 @@
 when A and B are inequal, natural numbers, 
 and above or equal to one.
 
-# Proof -
 As our A or B approach infinity, (A+B)! - (A!+B!)
 approaches infinity as well.
 
